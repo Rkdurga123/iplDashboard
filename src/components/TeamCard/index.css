@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.list-items {
+  height: 200px;
+  width: 400px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 15px;
+  border: 1px solid white;
+  background-color: transparent;
+  padding: 10px;
+  margin: 20px;
+}
+.image {
+  height: 100px;
+  width: 100px;
+}
+.name {
+  font-family: 'Roboto';
+  margin-left: 10px;
+  font-size: 30px;
+  font-weight: bold;
+}

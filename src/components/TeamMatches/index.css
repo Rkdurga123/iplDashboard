@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.whole-container {
+  background-image: linear-gradient(#d91c1f, #a4261d);
+  background-size: cover;
+  height: 100vh;
+}
+.RCB{
+    background-color: gray;
+}
